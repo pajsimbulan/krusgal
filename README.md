@@ -1,13 +1,6 @@
-********************************
-Name: Paul Simbulan\
-Student ID: 1812663\
-CSE102\
-Programming Assigment
-********************************
-
 
 *********************************
-FUNCTIONALITY:\
+About:\
 -Program finds a minimum spanning tree.  Kruskal Algorithm is used to find minimum spanning tree\
 -Sorts edges from min weight -> max weight\
 -Keeps adding edge starting from min weight to a graph as long as graph is acyclic\
