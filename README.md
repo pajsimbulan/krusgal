@@ -10,7 +10,7 @@ About:\
 *********************************
 HOW TO RUN:
 - type make to build program which creates binary file MWST
-- run ./MWST **/<input file/>** **/<outpufile/>**, of which input file should consist of the following format:\
+- run ./MWST **input file** **outpufile**, of which input file should consist of the following format:\
 (integer num of vertices)\
 (integer num of edges)\
 (int u) (int v) (int weight), where u and v are edges and weight is weight of edge\
